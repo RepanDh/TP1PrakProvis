@@ -12,4 +12,4 @@ Konsep OOP diimplementasikan melalui pembuatan beberapa class, yaitu Manusia, Ma
 - Fakultas: class yang memiliki atribut nama dan dosen yang merupakan list dari objek Dosen.
 
 ### Konsep Asyncronus
-Konsep pemrograman asinkron diimplementasikan dalam fungsi main dengan menggunakan Future.delayed dan async/await. fungsi memungkinkan program untuk men-delay eksekusi selama beberapa detik sebelum melanjutkan.
+Konsep pemrograman asinkron diimplementasikan dalam fungsi main dengan menggunakan Future.delayed dan async/await. fungsi ini akan men-delay eksekusi program selama beberapa detik sebelum melanjutkan.
